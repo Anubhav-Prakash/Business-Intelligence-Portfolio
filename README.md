@@ -1,4 +1,4 @@
-# 📊 Power BI Projects Archive
+# 📊 Business-Intelligence-Portfolio
 
 Welcome to my curated portfolio of **Power BI dashboards**.  
 This repository serves as a central hub showcasing multiple real-world projects, each organized into its own branch for clarity and easy navigation.
